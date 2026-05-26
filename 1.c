@@ -29,4 +29,5 @@ int main()
     printf("\n-----------------------\n");
 
     printf("Quantidade: %d", m);
+    //mas bah
 }
